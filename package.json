@@ -1,0 +1,25 @@
+{
+  "name": "challenge-task",
+  "version": "1.0.0",
+  "description": "Reto lista de tarea con JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnDGC/challenge-task-js.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "JohnDGC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnDGC/challenge-task-js/issues"
+  },
+  "homepage": "https://github.com/JohnDGC/challenge-task-js#readme",
+  "dependencies": {
+    "scanf": "^1.1.2"
+  }
+}
